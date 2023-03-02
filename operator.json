@@ -3,7 +3,7 @@
   "description": "PCA Shiny operator",
   "tags": ["pamgene", "pca"],
   "authors": ["tercen"],
-  "urls": ["https://github.com/tercen/PCA_shiny_operator"],
+  "urls": ["https://github.com/pamgene/PCA_shiny_operator"],
   "isViewOnly": false,
   "properties": [
   {
